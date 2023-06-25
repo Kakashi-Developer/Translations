@@ -1,11 +1,11 @@
 {
-    "PLAY_ERR": "Uh.. oh! You are not in a voice channel. You can also use the command {{command}} for a custom search.",
-    "PLAY_PERMS": "Uh.. oh! I don't have the necessary permissions to join that voice channel. I need the permissions",
+    "PLAY_ERR": "Você não está em um canal de voz. Você também pode usar o comando {{command}} para fazer uma busca personalizada.",
+    "PLAY_PERMS": "Não tenho as permissões necessárias para entrar nesse canal de voz. Preciso das permissões",
     "PLAY_UNKNOWN_VOICE": "Woah... you need to be in the same voice channel as me.",
-    "PLAY_INVALID_ARGS": "type the name of the song to play",
-    "PLAY_ERR_NO_RESULT": "Uh... oh! It seems an error occurred for what you wanted to listen to. Try being more specific, for example: **`Song - Artist`**.",
-    "PLAY_INVALID_URL": "Invalid URL!",
-    "PLAY_INVALID_DESCRIPTION": "<:youtube:1098764860822671391> Woah... it seems that the link you sent doesn't appear to be **enabled**. \n\n• I recommend trying with <:spotify:1098766406134267956> **Spotify**, <:soundcloud:1098766335493808220> **Soundcloud**, <:applemusic:1098765923533463583> **AppleMusic**, or <:deezer:1098765784127377429> **Deezer** which are enabled platforms.\n• Additionally, you can try with the **song** and **artist name** for an exact search. For example: **`Song - Artist`**",
-    "PLAYER_ADDED": "Added song",
-    "PLAYLIST_ADDED": "Added playlist"
+    "PLAY_INVALID_ARGS": "digite o nome da música a ser reproduzida",
+    "PLAY_ERR_NO_RESULT": "Parece que ocorreu um erro no que você queria ouvir. Tente ser mais específico, por exemplo: **`Canção - Artista`**.",
+    "PLAY_INVALID_URL": "A URL fornecida é inválida.",
+    "PLAY_INVALID_DESCRIPTION": "<:youtube:1098764860822671391> Uau... parece que o link que você enviou não parece estar **habilitado**. \n\n- Recomendo que você tente com <:spotify:1098766406134267956> **Spotify**, <:soundcloud:1098766335493808220> **Soundcloud**, <:applemusic:1098765923533463583> **AppleMusic**, ou <:deezer:1098765784127377429> **Deezer**, que são plataformas habilitadas.\n- Além disso, você pode tentar com a **música** e o **nome do artista** para uma pesquisa exata. Por exemplo: **`Canção - Artista`**",
+    "PLAYER_ADDED": "Canção adicionada",
+    "PLAYLIST_ADDED": "Adicionado à lista de reprodução"
 }
