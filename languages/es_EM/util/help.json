@@ -36,7 +36,7 @@
     "HELP_DESCRIPTION_UTIL": "Some utility commands that could be useful.",
     "HELP_DESCRIPTION_IMAGE": "Art is art...",
     "HELP_DESCRIPTION_ACTIONS": "Actions to interact or react with another person.",
-    "INFO_TITLE": "Command: {{command}}",
+    "INFO_TITLE": "Comando: {{command}}",
     "INFO_FIELD_USAGE": "Usage",
     "INFO_REQUEST": "User",
     "INFO_UNIT_SECS": "seconds",
