@@ -1,0 +1,17 @@
+{
+    "RPS_OBJECT_ONE": "Rock",
+    "RPS_OBJECT_TWO": "Paper",
+    "RPS_OBJECT_THREE": "Scissor",
+    "RPS_DESCRIPTION": "Choose an object to play!",
+    "RPS_FIELD": "Result",
+    "RPS_THIE": "Tie! No one wins",
+    "RPS_ROCK_ANSWER1": "Oops! Paper beats me.",
+    "RPS_ROCK_ANSWER2": "Yay! Scissors can't cut rock :P",
+    "RPS_ROCK_ANSWER3": "Oh! I chose rock and won :)",
+    "RPS_PAPER_ANSWER1": "Wow.. paper wins.",
+    "RPS_PAPER_ANSWER2": "Oops.. scissors cut the paper.",
+    "RPS_PAPER_ANSWER3": "Uh! Paper wins.",
+    "RPS_SCISSORS_ANSWER1": "Wow... rock beats me :(",
+    "RPS_SCISSORS_ANSWER2": "Yay! Scissors win.",
+    "RPS_SCISSORS_ANSWER3": "Uh! Scissors win :)"
+}
