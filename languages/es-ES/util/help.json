@@ -1,0 +1,4 @@
+{
+    "HELP_DESCRIPTION": "Menú de Ayuda",
+    "HELP_INFO": "¡Hey! Soy [Kakashi]({{page}}), un bot multifuncional diseñado para dar vida y diversión a tu servidor de Discord. Con un total de **`{{commands}}`** comandos y **{{categories}}** emocionantes categorías, estoy aquí para hacer que tu experiencia en Discord sea inolvidable."
+}
