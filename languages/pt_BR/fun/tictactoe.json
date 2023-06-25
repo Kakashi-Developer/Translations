@@ -1,0 +1,6 @@
+{
+    "3LINE_PLAYING": "Uh... oh! Você já está jogando uma rodada no canal {{channel}}",
+    "3LINE_BOT": "Você não pode jogar com bots. Se quiser jogar com um bot, você pode tentar me mencionar.",
+    "3LINE_ROUND": "Uau... parece que esse não é o seu jogo.",
+    "3LINE_TURN": "Uau... ainda não é a sua vez, é a vez do {{user}}."
+}
