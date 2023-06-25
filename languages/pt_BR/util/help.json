@@ -2,7 +2,7 @@
     "HELP_DESCRIPTION": "Menu de ajuda",
     "HELP_TITLE": "Comandos da categoria: {{category}} {{emoji}}",
     "HELP_WELCOME": "Bem-vindo à categoria {{category}}! Aqui você encontrará uma variedade de comandos para {{keywords}} seu servidor. Se precisar de ajuda adicional, sinta-se à vontade para entrar em nosso servidor de [suporte]({{support}}). Além disso, para obter mais informações sobre um comando específico, use **`{{prefix}}help <comando>`**.",
-    "HELP_INFO": "Olá! Eu sou [Kakashi]({{page}}), um ‘bot’ multifuncional projetado para dar vida e diversão ao seu servidor do Discord. Com um total de **`{{commands}}`** comandos e **{{categories}}** categorias empolgantes, estou aqui para tornar sua experiência no Discord inesquecível.",
+    "HELP_INFO": "Olá! Eu sou [Kakashi]({{page}}), um bot multifuncional projetado para dar vida e diversão ao seu servidor do Discord. Com um total de **`{{commands}}`** comandos e **{{categories}}** categorias empolgantes, estou aqui para tornar sua experiência no Discord inesquecível.",
     "HELP_FIELD_BACK": "Voltar",
     "HELP_FIELD_CATEGORY": "Categorias",
     "HELP_FIELD_CATEGORY_FUN": "Engraçado",
