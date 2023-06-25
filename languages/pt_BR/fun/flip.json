@@ -1,0 +1,8 @@
+{
+    "FLIP_RANDOM1": "Uau! Ele aterrissou em {{result}}.",
+    "FLIP_RANDOM2": "Sim! O resultado foi {{result}}.",
+    "FLIP_RANDOM3": "Muito bem! Acabou de aterrissar em {{result}}.",
+    "FLIP_RANDOM4": "Uau... o resultado foi {{result}}.",
+    "FLIP_TAILS": "caudas",
+    "FLIP_HEAD": "cabeças"
+}
