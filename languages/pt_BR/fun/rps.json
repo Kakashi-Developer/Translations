@@ -1,0 +1,17 @@
+{
+    "RPS_OBJECT_ONE": "Rochas",
+    "RPS_OBJECT_TWO": "Papel",
+    "RPS_OBJECT_THREE": "Tesoura",
+    "RPS_DESCRIPTION": "Escolha um objeto para jogar!",
+    "RPS_FIELD": "Resultado",
+    "RPS_THIE": "Empate! Ninguém ganha",
+    "RPS_ROCK_ANSWER1": "Ops! O papel me venceu.",
+    "RPS_ROCK_ANSWER2": "Boa! A tesoura não pode cortar pedra :P",
+    "RPS_ROCK_ANSWER3": "Oh! Eu escolhi o rock e ganhei :)",
+    "RPS_PAPER_ANSWER1": "Uau... o papel ganha.",
+    "RPS_PAPER_ANSWER2": "Oops... a tesoura cortou o papel.",
+    "RPS_PAPER_ANSWER3": "Uh! O papel vence.",
+    "RPS_SCISSORS_ANSWER1": "Uau... roca me superou :(",
+    "RPS_SCISSORS_ANSWER2": "Boa! A tesoura venceu.",
+    "RPS_SCISSORS_ANSWER3": "A tesoura venceu :)"
+}
