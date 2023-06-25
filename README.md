@@ -1,0 +1,2 @@
+# Translations
+Traducciones de Kakashi
