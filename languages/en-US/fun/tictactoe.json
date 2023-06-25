@@ -1,0 +1,6 @@
+{
+    "3LINE_PLAYING": "Uh.. oh! You are already playing a round in the channel {{channel}}",
+    "3LINE_BOT": "You cannot play with bots. If you want to play with a bot, you can try mentioning me.",
+    "3LINE_ROUND": "Woah... it seems this is not your game.",
+    "3LINE_TURN": "Woah... it's not your turn yet, it's {{user}}'s turn."
+}
