@@ -1,0 +1,11 @@
+{
+    "PLAY_ERR": "Uh.. oh! You are not in a voice channel. You can also use the command {{command}} for a custom search.",
+    "PLAY_PERMS": "Uh.. oh! I don't have the necessary permissions to join that voice channel. I need the permissions",
+    "PLAY_UNKNOWN_VOICE": "Woah... you need to be in the same voice channel as me.",
+    "PLAY_INVALID_ARGS": "type the name of the song to play",
+    "PLAY_ERR_NO_RESULT": "Uh... oh! It seems an error occurred for what you wanted to listen to. Try being more specific, for example: **`Song - Artist`**.",
+    "PLAY_INVALID_URL": "Invalid URL!",
+    "PLAY_INVALID_DESCRIPTION": "<:youtube:1098764860822671391> Woah... it seems that the link you sent doesn't appear to be **enabled**. \n\n• I recommend trying with <:spotify:1098766406134267956> **Spotify**, <:soundcloud:1098766335493808220> **Soundcloud**, <:applemusic:1098765923533463583> **AppleMusic**, or <:deezer:1098765784127377429> **Deezer** which are enabled platforms.\n• Additionally, you can try with the **song** and **artist name** for an exact search. For example: **`Song - Artist`**",
+    "PLAYER_ADDED": "Added song",
+    "PLAYLIST_ADDED": "Added playlist"
+}
