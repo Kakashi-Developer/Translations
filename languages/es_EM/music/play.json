@@ -1,0 +1,11 @@
+{
+    "PLAY_ERR": "Uh.. oh! No estás en un canal de voz. También puedes usar el comando {{command}} para una búsqueda personalizada.",
+    "PLAY_PERMS": "Uh.. oh! No tengo el permiso requerido para unirme a ese canal de voz. Necesito el permiso",
+    "PLAY_UNKNOWN_VOICE": "Woah... necesitas estas en el mismo canal de voz que yo.",
+    "PLAY_INVALID_ARGS": "escribe el nombre de la canción a reproducir",
+    "PLAY_ERR_NO_RESULT": "Uh... oh! Parece que ocurrió un error para lo que querias escuchar. Intenta siendo más específico, por ejemplo: **`Canción - Cantante`**.",
+    "PLAY_INVALID_URL": "Enlace no compatible!",
+    "PLAY_INVALID_DESCRIPTION": "<:youtube:1098764860822671391> Woah... parece que el enlace que enviaste no parece estar **habilitado**. \n\n• Te recomiendo probar con <:spotify:1098766406134267956> **Spotify**, <:soundcloud:1098766335493808220> **Soundcloud**, <:applemusic:1098765923533463583> **AppleMusic** o <:deezer:1098765784127377429> **Deezer**, que son plataformas habilitadas.\n• Además, puedes intentar con el **nombre de la canción** y el **nombre del artista** para una búsqueda exacta. Por ejemplo: **\\`Canción - Artista\\`**",
+    "PLAYER_ADDED": "Canción añadida",
+    "PLAYLIST_ADDED": "Playlist añadida"
+}
