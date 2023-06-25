@@ -1,0 +1,6 @@
+{
+    "CONFESSION_ERR_LENGTH": "A confissão é muito longa",
+    "CONFESSION_ERR_CHANNEL": "O canal de confissão não foi configurado neste servidor. Por favor, configure-o com {{command}}",
+    "CONFESSION_TITLE": "Nova confissão",
+    "CONFESSION_FOOTER": "Por: {{user}}"
+}
