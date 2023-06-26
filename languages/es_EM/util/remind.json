@@ -1,10 +1,10 @@
 {
-    "REMIND_INVALID_UNIT": "you need to specify the time to remind you. (`d=days`, `h=hours`, `m=minutes`)",
-    "REMIND_INVALID_HIGHER_THAN": "the specified time is too high. (>94608000000ms)",
-    "REMIND_SUCESS": "Okay! Within {{time}}",
-    "REMIND_INDM": "in your private messages",
-    "REMIND_REMAINING": "of the command {{command}}",
-    "REMIND_PARAMETER": "Remind me the command",
-    "REMIND_PARAMETER_SUCESS": "Reminder finished",
-    "REMIND_SHOULD": "I will set a reminder for you"
+    "REMIND_INVALID_UNIT": "necesitas especificar el tiempo para recordarte. (`d=días`, `h=horas`, `m=minutos`)",
+    "REMIND_INVALID_HIGHER_THAN": "el tiempo especificado es demasiado alto. (>94608000000ms)",
+    "REMIND_SUCESS": "¡Vale! Dentro de {{time}}",
+    "REMIND_INDM": "en tus mensajes privados",
+    "REMIND_REMAINING": "del comando {{command}}",
+    "REMIND_PARAMETER": "Recuérdame el comando",
+    "REMIND_PARAMETER_SUCESS": "Recordatorio terminado",
+    "REMIND_SHOULD": "te voy a recordar"
 }
