@@ -1,7 +1,7 @@
 {
     "PLAY_ERR": "Você não está em um canal de voz. Você também pode usar o comando {{command}} para fazer uma busca personalizada.",
     "PLAY_PERMS": "Não tenho as permissões necessárias para entrar nesse canal de voz. Preciso das permissões",
-    "PLAY_UNKNOWN_VOICE": "Woah... you need to be in the same voice channel as me.",
+    "PLAY_UNKNOWN_VOICE": "Woah... você precisa estar no mesmo canal de voz que eu.",
     "PLAY_INVALID_ARGS": "digite o nome da música a ser reproduzida",
     "PLAY_ERR_NO_RESULT": "Parece que ocorreu um erro no que você queria ouvir. Tente ser mais específico, por exemplo: **`Canção - Artista`**.",
     "PLAY_INVALID_URL": "A URL fornecida é inválida.",
