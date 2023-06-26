@@ -1,6 +1,6 @@
 {
-    "CONFESSION_ERR_LENGTH": "The confession is too long",
-    "CONFESSION_ERR_CHANNEL": "Uh.. oh! The confession channel has not been set up on this server. Please set it up with {{command}}",
+    "CONFESSION_ERR_LENGTH": "Признание слишком длинное",
+    "CONFESSION_ERR_CHANNEL": "Ой... Ой! Канал конфессий не был настроен на этом сервере. Пожалуйста, настройте его с помощью {{command}}",
     "CONFESSION_TITLE": "New confession",
     "CONFESSION_FOOTER": "By: {{user}}"
 }
