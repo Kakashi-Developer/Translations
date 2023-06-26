@@ -7,11 +7,11 @@
     "RPS_THIE": "Ничья! Никто не выиграл",
     "RPS_ROCK_ANSWER1": "Упс! Бумага бьёт меня.",
     "RPS_ROCK_ANSWER2": "Да! Ножницы не могу порезать камень :P",
-    "RPS_ROCK_ANSWER3": "Oh! I chose rock and won :)",
-    "RPS_PAPER_ANSWER1": "Wow.. paper wins.",
-    "RPS_PAPER_ANSWER2": "Oops.. scissors cut the paper.",
-    "RPS_PAPER_ANSWER3": "Uh! Paper wins.",
-    "RPS_SCISSORS_ANSWER1": "Wow... rock beats me :(",
-    "RPS_SCISSORS_ANSWER2": "Yay! Scissors win.",
-    "RPS_SCISSORS_ANSWER3": "Uh! Scissors win :)"
+    "RPS_ROCK_ANSWER3": "Ох! Я выбрал камень и выиграл :)",
+    "RPS_PAPER_ANSWER1": "Вау... Бумага выиграла.",
+    "RPS_PAPER_ANSWER2": "Упс... Ножницы разрезали бумагу.",
+    "RPS_PAPER_ANSWER3": "Ух! Бумага выиграла.",
+    "RPS_SCISSORS_ANSWER1": "Вау.... Камень побил меня :(",
+    "RPS_SCISSORS_ANSWER2": "Йей! Ножницы выиграли.",
+    "RPS_SCISSORS_ANSWER3": "Ух! Ножницы выиграли :)"
 }
