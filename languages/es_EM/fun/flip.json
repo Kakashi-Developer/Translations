@@ -1,8 +1,8 @@
 {
-    "FLIP_RANDOM1": "Wow! It landed on {{result}}.",
-    "FLIP_RANDOM2": "Yes! The result was {{result}}.",
-    "FLIP_RANDOM3": "Yay! It just landed on {{result}}.",
-    "FLIP_RANDOM4": "Woah... the result was {{result}}.",
-    "FLIP_TAILS": "tails",
-    "FLIP_HEAD": "heads"
+    "FLIP_RANDOM1": "¡Vaya! Aterrizó en {{result}}.",
+    "FLIP_RANDOM2": "¡Sí! El resultado fue {{result}}.",
+    "FLIP_RANDOM3": "¡Yey! Acaba de aterrizar en el {{result}}.",
+    "FLIP_RANDOM4": "Woah... el resultado fue {{result}}.",
+    "FLIP_TAILS": "sello",
+    "FLIP_HEAD": "cara"
 }
