@@ -1,4 +1,4 @@
 {
-    "ASCII_ERR": "the text to repeat is longer than 20 characters.",
-    "ASCII_UNKOWN_ERR": "an error occurred, please try again later."
+    "ASCII_ERR": "el texto a repetir tiene más de 20 caracteres.",
+    "ASCII_UNKOWN_ERR": "se ha producido un error, inténtelo de nuevo más tarde."
 }
