@@ -1,5 +1,5 @@
 {
-    "USER_INFO_USERNAME": "Username",
-    "USER_INFO_JOIN": "Date of joining the Server",
-    "USER_INFO_DISCORD_JOIN": "Date of joining Discord"
+    "USER_INFO_USERNAME": "Имя",
+    "USER_INFO_JOIN": "Дата присоединения к серверу",
+    "USER_INFO_DISCORD_JOIN": "Дата вступления в Discord"
 }

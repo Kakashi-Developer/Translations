@@ -1,9 +1,9 @@
 {
-    "SHIP_ERR_MEMBERS": "it is necessary to mention a minimum of __2 members__.",
-    "SHIP_ERR_MEMBER": "you need to mention the **__second__** member",
-    "SHIP_PERCENTAGE1": "They don't seem compatible.. they might end up as enemies in the future.",
-    "SHIP_PERCENTAGE2": "Maybe if they try a little, they could be compatible.",
-    "SHIP_PERCENTAGE3": "Somewhat decent.. and it seems they will end up being friends in the end.",
-    "SHIP_PERCENTAGE4": "Great! They do seem compatible <3",
-    "SHIP_REPLY": "Final Name"
+    "SHIP_ERR_MEMBERS": "необходимо упомянуть минимум __2 members__.",
+    "SHIP_ERR_MEMBER": "нужно упомянуть **__second__** член",
+    "SHIP_PERCENTAGE1": "Они не могут быть совместимыми... они могут в конечном итоге стать врагами в будущем.",
+    "SHIP_PERCENTAGE2": "Может быть, если они немного попробуют, они могут быть совместимы.",
+    "SHIP_PERCENTAGE3": "Несколько приличное, и кажется, что в конце они будут друзьями.",
+    "SHIP_PERCENTAGE4": "Отлично! Они кажутся совместимыми <3",
+    "SHIP_REPLY": "Конечное имя"
 }

@@ -1,10 +1,10 @@
 {
-    "REMIND_INVALID_UNIT": "you need to specify the time to remind you. (`d=days`, `h=hours`, `m=minutes`)",
-    "REMIND_INVALID_HIGHER_THAN": "the specified time is too high. (>94608000000ms)",
-    "REMIND_SUCESS": "Okay! Within {{time}}",
-    "REMIND_INDM": "in your private messages",
-    "REMIND_REMAINING": "of the command {{command}}",
-    "REMIND_PARAMETER": "Remind me the command",
-    "REMIND_PARAMETER_SUCESS": "Reminder finished",
-    "REMIND_SHOULD": "I will set a reminder for you"
+    "REMIND_INVALID_UNIT": "нужно указать время для напоминания вам. (`d=days`, `h=hours`, `m=minutes`)",
+    "REMIND_INVALID_HIGHER_THAN": "указанное время слишком велико. (>94608000000мс)",
+    "REMIND_SUCESS": "Хорошо! Внутри {{time}}",
+    "REMIND_INDM": "в своих личных сообщениях",
+    "REMIND_REMAINING": "команды {{command}}",
+    "REMIND_PARAMETER": "Напомнить команде",
+    "REMIND_PARAMETER_SUCESS": "Напоминание завершено",
+    "REMIND_SHOULD": "Я поставлю вам напоминание"
 }
