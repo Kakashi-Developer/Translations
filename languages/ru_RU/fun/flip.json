@@ -2,7 +2,7 @@
     "FLIP_RANDOM1": "Вау! Это приземлилось на {{result}}.",
     "FLIP_RANDOM2": "Да! Результат - {{result}}.",
     "FLIP_RANDOM3": "Да! Это только что приземлилось на {{result}}.",
-    "FLIP_RANDOM4": "Воу... Результат - {{result}}.",
+    "FLIP_RANDOM4": "Woah... Результат - {{result}}.",
     "FLIP_TAILS": "хвосты",
     "FLIP_HEAD": "головы"
 }
