@@ -1,4 +1,4 @@
 {
-    "VOTE": "You can also vote for me",
-    "PAGE": "Page **{{page}}** of **{{pages}}**"
+    "VOTE": "Вы также можете голосовать за меня",
+    "PAGE": "Страница **{{page}}** из **{{pages}}**"
 }
