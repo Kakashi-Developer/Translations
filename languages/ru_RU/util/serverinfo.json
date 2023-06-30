@@ -1,5 +1,5 @@
 {
-    "SERVER_FIELD_OWNER": "Owner",
-    "SERVER_FIELD_CREATED": "Created",
-    "SERVER_FIELD_MEMBERS": "Members"
+    "SERVER_FIELD_OWNER": "Владелец",
+    "SERVER_FIELD_CREATED": "Создано",
+    "SERVER_FIELD_MEMBERS": "Члены"
 }
