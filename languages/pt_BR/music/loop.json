@@ -1,0 +1,9 @@
+{
+    "LOOP_ERR_NEED": "Uh... oh! The queue is already in repeat mode. If you want to disable it, use the `off` argument.",
+    "LOOP_ERR_PLAYING": "Uh... oh! No song is currently playing.",
+    "LOOP_ERR_ARGS": "Uh... oh! You need to provide a valid argument: track, queue, or off.",
+    "LOOP_SUCESS_CURRENT": "the repeat mode will affect the current song",
+    "LOOP_SUCESS_QUEUE": "the repeat mode will affect the song queue",
+    "LOOP_OFF": "the repeat mode has been turned off",
+    "LOOP_ERR_ACTIVE": "Uh... oh! There is no loop mode currently active."
+}

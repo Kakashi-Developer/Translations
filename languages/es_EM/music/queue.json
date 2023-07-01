@@ -1,0 +1,5 @@
+{
+    "QUEUE_ERR_LENGTH": "Uh... oh! There are no songs in the queue",
+    "QUEUE_AUTHOR": "List of songs in the queue",
+    "QUEUE_DESCRIPTION": "Here will be displayed the list of pending songs to play. \n\n{{desc}}\n\n> **Now playing:**"
+}
