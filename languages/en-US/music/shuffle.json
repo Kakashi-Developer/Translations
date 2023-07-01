@@ -1,0 +1,4 @@
+{
+    "SHUFFLE_ERR_LENGTH": "Uh... oh! There must be more than 2 songs to play.",
+    "SHUFFLE_SUCESS": "{{songs}} songs have been shuffled"
+}
