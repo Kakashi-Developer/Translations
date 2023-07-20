@@ -1,0 +1,4 @@
+{
+    "LANGUAGE_ERR_ARGS": "You must provide the language to switch",
+    "LANGUAGE_SUCCESS": "Yey! The language has been correctly set to {{language}}"
+}
