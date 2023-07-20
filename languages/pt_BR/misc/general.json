@@ -1,7 +1,7 @@
 {
     "VOTE": "Você também pode votar em mim",
     "PAGE": "Página **{{page}}** de **{{pages}}**",
-    "ERROR": "Uh.. oh! An error occurred, please try again later.",
-    "MEMBERS": "you need to mention one member.",
-    "ROUND": "<:clear:1028081473988861952> » Game of {{type}} between **{{user1}}** <:versus:1028090285676298240> **{{user2}}**\n<:sword:1028087306340540477> » Waiting for a response..."
+    "ERROR": "Ocorreu um erro. Tente novamente mais tarde.",
+    "MEMBERS": "você precisa mencionar um membro.",
+    "ROUND": "<:clear:1028081473988861952> » Jogo de {{type}} entre **{{user1}}** <:versus:1028090285676298240> **{{user2}}**\n<:sword:1028087306340540477> » Esperando por uma resposta..."
 }
