@@ -1,4 +1,4 @@
 {
-    "SHUFFLE_ERR_LENGTH": "Uh... oh! There must be more than 2 songs to play.",
-    "SHUFFLE_SUCESS": "{{songs}} songs have been shuffled"
+    "SHUFFLE_ERR_LENGTH": "Uh... oh! Deve haver mais de 2 músicas para tocar.",
+    "SHUFFLE_SUCESS": "{{songs}} músicas foram mixadas"
 }
