@@ -1,0 +1,12 @@
+{
+    "BATTLE_MENTION_ERR": "mention your opponent or you can use the argument `-r` to play with a random player",
+    "BATTLE_MENTION_ERR_BOT": "you can't play with bots",
+    "BATTLE_MENTION_ITSELF": "you can't play with yourself, try with another person",
+    "BATTLE_PLAYING": "there is already a game in progress in the channel. Please wait until it finishes or go to another channel",
+    "BATTLE_REGISTER": "the opponent has not registered for Kakashi's adventure",
+    "BATTLE_BUTTON1": "Attack",
+    "BATTLE_BUTTON2": "Esquive",
+    "BATTLE_BUTTON3": "Defend",
+    "BATTLE_TITLE_STARTING": "Duel between {{user1}} & {{user2}}",
+    "BATTLE_DESCRIPTION_STARTING": "Starting...."
+}
