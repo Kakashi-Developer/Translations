@@ -1,5 +1,5 @@
 {
-    "QUEUE_ERR_LENGTH": "Uh... oh! There are no songs in the queue",
-    "QUEUE_AUTHOR": "List of songs in the queue",
-    "QUEUE_DESCRIPTION": "Here will be displayed the list of pending songs to play. \n\n{{desc}}\n\n> **Now playing:**"
+    "QUEUE_ERR_LENGTH": "Uh... oh! Não há músicas na fila",
+    "QUEUE_AUTHOR": "Lista de músicas na fila",
+    "QUEUE_DESCRIPTION": "Aqui será exibida a lista de músicas pendentes para tocar. \n\n{{desc}}\n\n> ** Reproduzindo agora: **"
 }
